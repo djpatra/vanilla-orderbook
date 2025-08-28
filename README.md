@@ -1,6 +1,6 @@
 # vanilla-orderbook
 
-# Matching Engine Order Book
+# Overview
 
 A simple **price-time priority order book** implemented in Rust.  
 
